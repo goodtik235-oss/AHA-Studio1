@@ -1,0 +1,5 @@
+{
+  "name": "AHA STUDIO",
+  "description": "Professional AI-powered video localization studio. Transcribe, translate, and dub videos directly in the browser using Gemini models.",
+  "requestFramePermissions": []
+}
